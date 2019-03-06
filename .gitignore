@@ -1,0 +1,4 @@
+# Local development only
+.jekyll-cache
+Gemfile.lock
+_site
