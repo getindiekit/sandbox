@@ -1,0 +1,30 @@
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="alternate" href="/feed.json" type="application/feed+json" title="JSON Feed">
+    <link rel="alternate" href="/feed.jf2.json" type="application/jf2feed+json" title="JF2 Feed">
+    <link rel="authorization_endpoint" href="https://indiekit.up.railway.app/auth">
+    <link rel="token_endpoint" href="https://indiekit.up.railway.app/auth/token">
+    <link rel="indieauth-metadata" href="https://indiekit.up.railway.app/auth/metadata">
+    <link rel="micropub" href="https://indiekit.up.railway.app/micropub">
+    <link rel="microsub" href="https://aperture.p3k.io/microsub/32">
+    <link rel="webmention" href="https://indiekit.up.railway.app/webmention">
+    <link rel="pgpkey authn" href="key.txt">
+    <title>{% if page.title != '' %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+
+    <meta property="og:title" content="{% if page.title != '' %}{{ page.title }} - {% endif %}{{ site.title }}">
+    {% if page.summary %}
+    <meta property="og:description" name="description" content="{{ page.summary }}">
+    {% endif %}
+    <meta property="og:url" content="{{ page.url }}">
+    {% if page.photo %}
+    <meta property="og:image" content="https://indiekit.up.railway.app/image/{{ page.photo[0].url }}?w=1200">
+    <meta property="og:image:alt" content="{{ page.photo[0].alt }}">
+    <meta name="twitter:card" content="summary_large_image">
+    {% endif %}
+  </head>
+  <body>
+{{ content }}
+  </body>
+</html>
