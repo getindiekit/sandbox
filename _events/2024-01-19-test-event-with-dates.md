@@ -3,9 +3,9 @@ date: 2024-01-19T16:53:00.000Z
 title: Test event with dates
 location:
   type: adr
-start: 2024-01-19T12:30
-end: 2024-01-31T12:30
+start: 2024-01-19
+end: 2024-01-31
 visibility: public
 post-type: event
-updated: 2024-01-19T17:02:09.062Z
+updated: 2024-01-19T17:02:22.242Z
 ---
