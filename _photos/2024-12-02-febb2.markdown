@@ -1,0 +1,8 @@
+---
+date: 2024-12-02T21:54:21.863Z
+photo:
+  - url: media/photos/2024/337/%7Bslug%7D/photo.jpg
+    alt: Test
+channel:
+  - posts
+---
