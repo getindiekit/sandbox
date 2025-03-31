@@ -1,0 +1,10 @@
+---
+date: 2025-04-01T00:52:57.848+01:00
+photo:
+  - url: media/photos/2025/091/photo.jpg
+    alt: Test image
+channel:
+  - posts
+---
+
+Testing photo syndication to ATProto.
