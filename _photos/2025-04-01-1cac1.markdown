@@ -11,6 +11,9 @@ photo:
     alt: Four
   - url: https://paulrobertlloyd.com/images/1280/webp/2024/135/p2/2.jpg
     alt: Five
+syndication:
+  - https://bsky.app/profile/indiekit-sandbox.bsky.social/did:plc:ix4srp5t7rswkoachemlkzdt/post/3llpl65u4az2h
+updated: 2025-04-01T01:04:38.317+01:00
 channel:
   - posts
 ---
