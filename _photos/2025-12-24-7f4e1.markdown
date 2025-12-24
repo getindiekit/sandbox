@@ -5,4 +5,7 @@ photo:
     alt: Test
 channel:
   - posts
+syndication:
+  - https://bsky.app/profile/did:plc:ix4srp5t7rswkoachemlkzdt/post/3maqh32yade22
+updated: 2025-12-24T14:13:02.913Z
 ---
