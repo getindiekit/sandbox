@@ -1,0 +1,10 @@
+---
+date: 2025-12-24T14:25:30.494Z
+photo:
+  - url: media/photos/2025/358/green-plant.png
+    alt: Green plant.
+  - url: media/photos/2025/358/mounts-bay.jpg
+    alt: Mount’s Bay.
+channel:
+  - posts
+---
