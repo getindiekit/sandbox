@@ -1,0 +1,8 @@
+---
+date: 2025-12-24T14:21:01.626Z
+photo:
+  - url: media/photos/2025/358/guist.jpg
+    alt: Guist
+channel:
+  - posts
+---
