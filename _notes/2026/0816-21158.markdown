@@ -1,0 +1,7 @@
+---
+date: 2026-08-16T02:11:58.017+08:00
+channel:
+  - posts
+---
+
+Test fix to time zone formatting
